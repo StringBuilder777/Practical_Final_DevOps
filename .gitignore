@@ -1,1 +1,4 @@
-docker-compose.yml
+.DS_Store
+github-actions-ec2
+github-actions-ec2.pub
+*.pem
